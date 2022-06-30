@@ -13,7 +13,7 @@ body {
 #cta{
     background-color: #ff4c68;
     text-align: center;
-    padding:5% 5%;
+    padding:7% 5% 5% 5%;
     color:white;
     font-weight: bolder;
     font-size: 1.5rem;
@@ -159,4 +159,6 @@ li {
     .phone{transform: rotate(0);
     position: static;}
     #title{text-align: center;}
+     p{font-size: 1.5rem;}
+    h3{font-size: 2rem;}
 }
