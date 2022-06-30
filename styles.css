@@ -162,3 +162,6 @@ li {
      p{font-size: 1.5rem;}
     h3{font-size: 2rem;}
 }
+@media(max-width:1080px) and (min-width: 992px){
+    .phone{position:relative;}
+}
