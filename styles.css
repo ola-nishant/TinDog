@@ -1,0 +1,172 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#pricing .card{
+    text-align: center;
+}
+
+#pricing .col-lg-4{
+    padding:3% 2%;
+}
+
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding:7% 5% 5% 5%;
+    color:white;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.download {
+    margin: 5% 3% 5% 0;
+}
+
+#testimonials em{
+    color:#fff;
+}
+
+.fa-brands {
+    margin: 5px;
+}
+
+#features{
+    text-align: center;
+    margin-bottom: 20px;
+    padding:7% 15%;
+    position: relative;
+    /* z-index: 1; */
+    background-color: #fff;
+}
+
+#footer{
+    text-align:center;
+    background-color: #fff;
+    padding: 3%;
+}
+
+.col-lg-6 h1 {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    font-size: 3.5rem;
+    font-weight: 900;
+    color: white;
+}
+
+#pricing h2{
+    font-weight: bolder;
+}
+
+#testimonials h2 {
+    font-family:'Montserrat', sans-serif;
+    /* line-height: 1.5; */
+    font-size: 2rem;
+    font-weight: 900;
+    color: white;
+    padding: 2% 7%;
+}
+
+#features h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+#features i{
+    color:#ff4c68;
+    font-size:3rem;
+    margin:7px;
+}
+
+#footer i{padding: 50px 10px;}
+
+#features i:hover{color:#ef8172;}
+
+#press img{
+    width: 10%;
+    margin:15px;
+}
+
+li {
+    padding: 0 18px;
+    font-size: 1.2rem;
+}
+
+.navbar {
+    padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand {
+    font-size: x-large;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+}
+
+#features p{
+    color:#8f8f8f;
+   
+}
+
+#footer p{
+    color:#8f8f8f;
+}
+
+.phone {
+    transform: rotate(25deg);
+    position: relative;
+    margin-bottom: -220px;
+
+}
+
+#press{
+    background-color: #ff4c68;
+    padding:3%;
+    text-align: center;
+}
+
+#pricing{padding:100px;
+    text-align: center;
+}
+
+#features .row{
+    padding-top:50px;
+    
+}
+
+#testimonials{
+    text-align:center;
+    background-color: #ff4c68;
+    padding:5% 3%;
+}
+
+.testimonial-image{
+    width:10%;
+    border-radius:100%;
+    padding:10px;
+}
+
+#title {
+    background-color: #ff4c68;
+    padding-bottom: 35px;
+}
+
+@media (max-width:991.33px){
+    .phone{transform: rotate(0);
+    position: static;}
+    #title{text-align: center;}
+    p,a{font-size: 1.5rem;}
+    h3{font-size: 2rem;}
+    #title a{text-align: left;}
+    
+}
+@media(max-width:1080px) and (min-width:991.33px)
+{
+    .bumton{margin: 0 -100px 0 0;}
+}
+
+
